@@ -137,9 +137,9 @@ class Ui_MainWindow(object):
             msg['to'] = to
     
 
-            user = "kylercarleton2005@gmail.com"
+            user = "carletonnotify@gmail.com"
             msg['from'] = user
-            password = "ldzhbhmlsyrujirz"
+            password = "dqpgvizlqyaibdng"
 
             server = smtplib.SMTP("smtp.gmail.com", 587)
             server.starttls()
