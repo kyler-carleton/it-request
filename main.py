@@ -13,7 +13,7 @@ from update_check import checkForUpdates
 
 name = "No Name Entered"
 version = "1.0.0"
-checkForUpdates(__file__, "https://raw.githubusercontent.com/username/repo/myProgram.py")
+checkForUpdates(__file__, "https://raw.githubusercontent.com/kyler-carleton/it-request/main/main.py?token=ARFHRBIBG3N4ZHXXFMKR2SK7PXSEY")
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName(f"IT Request Version: {version}")
